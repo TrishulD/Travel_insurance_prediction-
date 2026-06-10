@@ -1,0 +1,5 @@
+Profile,Prediction,Prob_Purchase,Description
+P1,0,0.0,"Young low-income, no travel history"
+P2,1,1.0,"Older high-income, frequent flyer, well-travelled"
+P3,0,0.1251,"Mid-income, chronic disease, travelled abroad"
+P4,0,0.3509,"Young low-income, large family, no travel"
