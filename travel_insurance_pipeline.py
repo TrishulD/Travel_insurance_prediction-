@@ -1,14 +1,3 @@
-"""
-====================================================================
-Travel Insurance Purchase Prediction — End-to-End ML Pipeline
-====================================================================
-Dataset  : TravelInsurancePrediction.csv
-Target   : TravelInsurance (0 = did not buy, 1 = bought)
-Author   : Senior Data Scientist
-Python   : 3.10+
-====================================================================
-"""
-
 # ─────────────────────────────────────────────────────────────────
 # 0. IMPORTS & GLOBAL SETTINGS
 # ─────────────────────────────────────────────────────────────────
